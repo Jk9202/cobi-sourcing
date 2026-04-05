@@ -1,0 +1,22 @@
+{
+  "name": "COBI Sourcing OS",
+  "short_name": "COBI",
+  "description": "중국 소싱 통합 관리 툴",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0F1A",
+  "theme_color": "#F59E0B",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
